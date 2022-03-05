@@ -1,16 +1,15 @@
-### Hi there 👋
+### I'm Zhao Jinping
 
-<!--
-**Jpzhaoo/Jpzhaoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📖 I’m a postgraduate student in statistics at Xiamen University, China.
+- 🌱 Currently learning about Data Structures and Algorithms.
+- 💬 Ask me about tidyverse, ggplot2, R shiny and my projects on j1p2zhao@gmail.com
+- ⚡ Fun fact: Data Visualization.
 
-Here are some ideas to get you started:
+### 🛠 技能
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 &#160; ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- 🛢 &#160; ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+- 🔧 &#160; ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+
