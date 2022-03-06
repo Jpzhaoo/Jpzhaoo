@@ -13,3 +13,7 @@
 - 🔧 &#160; ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
+
+### 个人项目
+
+- 🌏 &#160; [数据可视化作品集](https://github.com/Jpzhaoo/viz)
