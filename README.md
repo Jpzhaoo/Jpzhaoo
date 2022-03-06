@@ -18,3 +18,4 @@
 
 - [数据可视化作品集](https://github.com/Jpzhaoo/viz)
 - [M5 销量预测结果展示](https://github.com/Jpzhaoo/m5_forecast)
+- [客户生命周期价值](https://github.com/Jpzhaoo/clv)
