@@ -14,6 +14,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
 
-### 个人项目
+### 项目展示
 
-- 🌏 &#160; [数据可视化作品集](https://github.com/Jpzhaoo/viz)
+- [数据可视化作品集](https://github.com/Jpzhaoo/viz)
+- [M5 销量预测结果展示](https://github.com/Jpzhaoo/m5_forecast)
