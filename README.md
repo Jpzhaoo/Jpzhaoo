@@ -23,3 +23,4 @@
 ### competition
 
 - [Song Popularity Prediction](https://github.com/Jpzhaoo/song_pop_predict)
+- [Predict Future Price](https://github.com/Jpzhaoo/predict_future_price)
